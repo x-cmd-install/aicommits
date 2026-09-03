@@ -1,0 +1,56 @@
+about:
+  description: A CLI that writes your git commit messages for you with AI
+  license: MIT
+  homepage: https://www.npmjs.com/package/aicommits
+  head: a4d7a44
+  archived: false
+  latestVersion: v4.2.1
+  collectedAt: 2026-09-03T04:37:21Z
+timeline:
+  created: 2023-02-14
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 9095
+  watcher: 34
+  fork: 476
+  release: 70
+  contributor: 33
+  pullRequest: 95
+  issue: 172
+language:
+  TypeScript: 226605
+totalLine: 226605
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 5
+    mergedPR: 3
+    openPR: 2
+    closedIssue: 3
+    openIssue: 3
+    commit: 9
+  last90d:
+    since: 2026-06-05
+    release: 6
+    mergedPR: 7
+    openPR: 3
+    closedIssue: 5
+    openIssue: 3
+    commit: 13
+  last180d:
+    since: 2026-03-07
+    release: 18
+    mergedPR: 15
+    openPR: 3
+    closedIssue: 13
+    openIssue: 3
+    commit: 34
+  last360d:
+    since: 2025-09-08
+    release: 52
+    mergedPR: 23
+    openPR: 4
+    closedIssue: 20
+    openIssue: 3
+    commit: 178
