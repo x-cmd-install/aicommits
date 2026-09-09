@@ -7,7 +7,7 @@ A CLI that writes your git commit messages for you with AI
 - **Latest release**: `v4.2.2` (2026-09-04)
 - **Last commit**: 2026-09-04
 - **License**: MIT
-- **Stars**: 9098 · **Forks**: 477 · **Open issues**: 172 · **Contributors**: 34
+- **Stars**: 9097 · **Forks**: 477 · **Open issues**: 172 · **Contributors**: 34
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/aicommits> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:37:03Z._
+_Last regenerated: 2026-09-09T20:04:02Z._
