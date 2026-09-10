@@ -4,41 +4,13 @@
 
 A CLI that writes your git commit messages for you with AI
 
-![aicommits](https://repo.x-cmd.io/aicommits.svg)
+![aicommits](https://repo.x-cmd.io/aicommits.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install aicommits
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/Nutlope/aicommits>
-- **官网**: <https://www.npmjs.com/package/aicommits>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v4.2.2` (2026-09-04)
-- **最近提交**: 2026-09-04
-- **发布时间**: 2026-09-04T08:39:21Z
-
-## 流行度
-
-- **Star**: 9,097 · **Fork**: 477 · **开放 issue**: 172 · **贡献者**: 34
-
-## 累计统计
-
-- **发布数**: 71 · **已合并 PR**: 97 · **开放 PR**: 4 · **已关闭 issue**: 168 · **开放 issue**: 4 · **提交数**: 384
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 4 | 1 | 0 | 2 | 9 |
-| 90d | 2026-06-12 | 7 | 8 | 3 | 5 | 3 | 14 |
-| 360d | 2025-09-15 | 53 | 24 | 4 | 20 | 3 | 179 |
 
 ## 代码规模
 
@@ -51,6 +23,44 @@ x install aicommits
 | Json | 3,331 | 0 | 0 | 5 |
 | Markdown | 0 | 497 | 223 | 6 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/Nutlope/aicommits>
+- **官网**: <https://www.npmjs.com/package/aicommits>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v4.2.2` (2026-09-04)
+- **最近提交**: 2026-09-04
+
+## 流行度
+
+- **Star**: 9,096 · **Fork**: 478 · **开放 issue**: 172 · **贡献者**: 34
+
+## 累计统计
+
+- **发布数**: 71 · **已合并 PR**: 97 · **开放 PR**: 4 · **已关闭 issue**: 168 · **开放 issue**: 4 · **提交数**: 384
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 4 | 1 | 0 | 2 | 9 |
+| last60d | 2026-07-12 | 7 | 8 | 2 | 3 | 3 | 14 |
+| 90d | 2026-06-12 | 7 | 8 | 3 | 5 | 3 | 14 |
+| last180d | 2026-03-14 | 13 | 13 | 3 | 12 | 3 | 28 |
+| 360d | 2025-09-15 | 53 | 24 | 4 | 20 | 3 | 179 |
+| last720d | 2024-09-20 | 53 | 24 | 4 | 27 | 3 | 196 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/aicommits) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `4.2.2` | ✅ latest |
+
 ## 改进这些数据
 
 aicommits 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aicommits` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -60,4 +70,4 @@ aicommits 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:42:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:40:53Z._
