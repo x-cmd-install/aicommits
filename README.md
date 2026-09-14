@@ -36,30 +36,22 @@ Total: **15,223** lines of code across **64** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,097 · **Forks**: 478 · **Open issues**: 172 · **Contributors**: 34
+- **Stars**: 9,098 · **Forks**: 478 · **Open issues**: 172 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 97 · **Open PRs**: 4 · **Closed issues**: 168 · **Open issues**: 4 · **Commits**: 384
+- **Releases**: 71 · **Merged PRs**: 97 · **Open PRs**: 5 · **Closed issues**: 168 · **Open issues**: 4 · **Commits**: 384
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 3 | 0 | 0 | 1 | 9 |
-| last60d | 2026-07-15 | 7 | 8 | 2 | 3 | 3 | 14 |
-| 90d | 2026-06-15 | 7 | 8 | 3 | 5 | 3 | 14 |
-| last180d | 2026-03-17 | 13 | 11 | 3 | 9 | 3 | 28 |
-| 360d | 2025-09-18 | 53 | 24 | 4 | 20 | 3 | 179 |
-| last720d | 2024-09-23 | 53 | 24 | 4 | 27 | 3 | 196 |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/aicommits). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.2.2` | ✅ latest |
+| 30d | 2026-08-15 | 3 | 3 | 1 | 0 | 1 | 7 |
+| last60d | 2026-07-16 | 7 | 8 | 3 | 3 | 3 | 14 |
+| 90d | 2026-06-16 | 7 | 8 | 4 | 5 | 3 | 14 |
+| last180d | 2026-03-18 | 13 | 11 | 4 | 9 | 3 | 21 |
+| 360d | 2025-09-19 | 53 | 24 | 5 | 20 | 3 | 179 |
+| last720d | 2024-09-24 | 53 | 24 | 5 | 27 | 3 | 196 |
 
 ## Improve this data
 
@@ -70,4 +62,4 @@ Install metadata for aicommits lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:38:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:55:11Z._
