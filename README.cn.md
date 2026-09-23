@@ -4,7 +4,7 @@
 
 A CLI that writes your git commit messages for you with AI
 
-[![x-cmd/install — aicommits Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aicommits.svg?lang=zh)](https://x-cmd.com/install/aicommits)
+[![x-cmd/install — aicommits Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aicommits.svg?lang=zh)](https://x-cmd.com/install/aicommits)
 
 ## 安装
 
@@ -46,12 +46,12 @@ x install aicommits
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 3 | 2 | 0 | 1 | 7 |
-| last60d | 2026-07-24 | 7 | 7 | 4 | 3 | 4 | 14 |
-| 90d | 2026-06-24 | 7 | 8 | 5 | 5 | 4 | 14 |
-| last180d | 2026-03-26 | 13 | 11 | 5 | 9 | 4 | 21 |
-| 360d | 2025-09-27 | 53 | 24 | 6 | 20 | 4 | 179 |
-| last720d | 2024-10-02 | 53 | 24 | 6 | 27 | 4 | 196 |
+| 30d | 2026-08-24 | 3 | 3 | 2 | 0 | 1 | 7 |
+| last60d | 2026-07-25 | 7 | 7 | 4 | 3 | 4 | 14 |
+| 90d | 2026-06-25 | 7 | 8 | 4 | 5 | 4 | 14 |
+| last180d | 2026-03-27 | 13 | 11 | 5 | 9 | 4 | 21 |
+| 360d | 2025-09-28 | 53 | 24 | 6 | 20 | 4 | 179 |
+| last720d | 2024-10-03 | 53 | 24 | 6 | 27 | 4 | 196 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ aicommits 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:10:32Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:59:22Z._
