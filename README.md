@@ -46,12 +46,12 @@ Total: **15,223** lines of code across **64** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-03 | 7 | 4 | 4 | 3 | 4 | 12 |
-| 90d | 2026-07-04 | 7 | 8 | 4 | 4 | 4 | 14 |
-| last180d | 2026-04-05 | 12 | 11 | 5 | 9 | 4 | 21 |
-| 360d | 2025-10-07 | 53 | 24 | 6 | 20 | 4 | 179 |
-| last720d | 2024-10-12 | 53 | 24 | 6 | 27 | 4 | 196 |
+| 30d | 2026-09-03 | 1 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-04 | 6 | 4 | 4 | 3 | 4 | 12 |
+| 90d | 2026-07-05 | 7 | 8 | 4 | 4 | 4 | 14 |
+| last180d | 2026-04-06 | 12 | 11 | 5 | 9 | 4 | 21 |
+| 360d | 2025-10-08 | 53 | 24 | 6 | 20 | 4 | 179 |
+| last720d | 2024-10-13 | 53 | 24 | 6 | 27 | 4 | 196 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for aicommits lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:20:26Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:06:38Z._
