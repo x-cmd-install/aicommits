@@ -14,13 +14,13 @@ x install aicommits
 
 ## Code insight
 
-Total: **15,223** lines of code across **64** files in the top 5 languages.
+Total: **15,228** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 7,003 | 167 | 854 | 50 |
-| Yaml | 4,889 | 0 | 1,558 | 3 |
-| Json | 3,331 | 0 | 0 | 5 |
+| Yaml | 4,893 | 3 | 1,560 | 3 |
+| Json | 3,332 | 0 | 0 | 5 |
 | Markdown | 0 | 497 | 223 | 6 |
 
 ## Source
@@ -31,27 +31,35 @@ Total: **15,223** lines of code across **64** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.2.2` (2026-09-04)
-- **Last commit**: 2026-09-04
+- **Latest**: `v4.2.3` (2026-10-22)
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 9,115 · **Forks**: 480 · **Open issues**: 174 · **Contributors**: 34
+- **Stars**: 9,116 · **Forks**: 480 · **Open issues**: 174 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 97 · **Open PRs**: 5 · **Closed issues**: 171 · **Open issues**: 3 · **Commits**: 384
+- **Releases**: 72 · **Merged PRs**: 97 · **Open PRs**: 5 · **Closed issues**: 171 · **Open issues**: 3 · **Commits**: 387
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-08-23 | 3 | 3 | 2 | 2 | 0 | 7 |
-| 90d | 2026-07-24 | 7 | 7 | 3 | 6 | 2 | 14 |
-| last180d | 2026-04-25 | 11 | 10 | 4 | 11 | 2 | 20 |
-| 360d | 2025-10-27 | 53 | 24 | 5 | 22 | 2 | 179 |
-| last720d | 2024-11-01 | 53 | 24 | 5 | 30 | 2 | 196 |
+| 30d | 2026-09-23 | 1 | 0 | 1 | 1 | 0 | 3 |
+| last60d | 2026-08-24 | 4 | 3 | 2 | 2 | 0 | 10 |
+| 90d | 2026-07-25 | 8 | 7 | 3 | 6 | 2 | 17 |
+| last180d | 2026-04-26 | 12 | 10 | 4 | 11 | 2 | 23 |
+| 360d | 2025-10-28 | 54 | 24 | 5 | 22 | 2 | 182 |
+| last720d | 2024-11-02 | 54 | 24 | 5 | 30 | 2 | 199 |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/aicommits). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.2.2` | ✅ latest |
 
 ## Improve this data
 
@@ -62,4 +70,4 @@ Install metadata for aicommits lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:28:49Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:39Z._
