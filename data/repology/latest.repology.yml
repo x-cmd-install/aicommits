@@ -2,8 +2,8 @@
   srcname: aicommits
   binname: aicommits
   visiblename: aicommits
-  version: 4.2.2
-  origversion: 4.2.2-1
+  version: 4.2.5
+  origversion: 4.2.5-1
   status: newest
   summary: A CLI that writes your git commit messages for you with AI
   maintainers:
@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: aicommits
   visiblename: aicommits
-  version: 4.2.2
+  version: 4.2.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Writes your git commit messages for you with AI
