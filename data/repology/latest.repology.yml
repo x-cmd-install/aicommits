@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: aicommits
   visiblename: aicommits
-  version: 4.2.3
+  version: 4.2.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Writes your git commit messages for you with AI
