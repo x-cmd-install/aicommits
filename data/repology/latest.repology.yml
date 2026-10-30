@@ -2,9 +2,9 @@
   srcname: aicommits
   binname: aicommits
   visiblename: aicommits
-  version: 4.2.5
-  origversion: 4.2.5-1
-  status: outdated
+  version: 5.0.1
+  origversion: 5.0.1-1
+  status: newest
   summary: A CLI that writes your git commit messages for you with AI
   maintainers:
     - alphalynx@aur
